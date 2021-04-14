@@ -1,0 +1,147 @@
+body{
+    background-color: slategray;
+    width: 900px;
+    height: 700px;
+    margin: 0 auto;
+}
+*{
+    margin: 0;padding: 0; box-sizing: border-box;font-size: 0;
+}
+header{
+    width: 900px;
+    height: 100px;
+}
+.caja1{
+    width: 180px;
+    height: 100px;
+    background-color: whitesmoke;
+    float: left;
+    border: 1px solid #000;
+}
+.logo{
+    width: 178px;
+    height: 98px;
+}
+.caja2{
+    width: 315px;
+    height: 100px;
+    background-color: whitesmoke;
+    float: left;
+    border: 1px solid #000;
+}
+.banner{
+    width: 313px;
+    height: 98px;
+}
+.caja3{
+    width: 180px;
+    height: 100px;
+    background-color: whitesmoke;
+    float: left;
+    border: 1px solid #000;
+}
+.click{
+    width: 178px;
+    height: 98px;
+}
+nav{
+    width: 804px;
+  /*  background-color:rgb(130, 243, 205);*/
+}
+nav a{
+    text-decoration: none;
+    color: inherit;
+    font-size: 15px;
+}
+nav li{
+    display: inline-block;
+    width: 14%;
+    padding: 0px 8px;
+    background-color: rgb(160, 160, 160);
+    border: 1px solid #000;
+}
+footer a{
+    text-decoration: none;
+    color: inherit;
+    font-size: 12px;
+}
+footer li{
+    display: inline-block;
+    width: 15%;
+    padding: 0px 10px;
+    background-color: rgb(160, 160, 160);
+    border: 1px solid #000;
+}
+main{
+    width: 900px;
+    height: 500px;
+}
+#sec1{
+    width: 200px;
+    height: 500px;
+    background-color: rgb(65, 112, 112);
+    float: left;
+    border: 1px solid #000;
+}
+.art1{
+    width: 200px;
+    height: 250px;
+    margin-top: 10px;
+}
+.art1 a{
+    text-decoration: none;
+    color: inherit;
+    font-size: 20px;
+}
+.art1 li{
+    display: inline-block;
+    width: 20%;
+    padding: 0px 10px;
+}
+.art2{
+    width: 200px;
+    height: 250px;
+    background-color: white;
+    border: 1px solid #000;
+}
+.sponsor{
+    width: 150px;
+    height: 248px;
+    margin-left: 23px;
+    float: left;
+}
+#sec2{
+    width: 475px;
+    height: 500px;
+    background-color: rgb(197, 197, 197);
+    float: left;
+    border: 1px solid #000;
+}
+.texto1{
+    width: 200px;
+    height: 40px;
+    margin-top:20px;
+    margin-left: 10px;
+}
+.texto1 li{
+    text-decoration: none;
+    color: inherit;
+    font-size: 50px;
+    display: inline-block;
+    width: 20%;
+    padding: 0px 10px;
+}
+.texto2{
+    width: 200px;
+    height: 250px;
+    margin-top:20px;
+    margin-left: 10px;
+}
+.texto2 li{
+    text-decoration: none;
+    color: inherit;
+    font-size: 14px;
+    display: inline-block;
+    width: 200%;
+    padding: 0px 10px;
+}
